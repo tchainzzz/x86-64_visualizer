@@ -1,0 +1,9 @@
+{
+  "name": "x86-64_Assembly_Visualizer",
+  "version": "1.0.0",
+  "description": "Visualize assembly code, Intel syntax",
+  "main": "index.js",
+  "author": "Trenton Chang",
+  "license": "MIT",
+  "private": false
+}
